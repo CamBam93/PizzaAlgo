@@ -1,2 +1,7 @@
 decide what store to order from
 decide pizza type to order
+Stores
+-Dominos
+-Pizza Hut
+-Papa Johns
+-Little Ceasers
