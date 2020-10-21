@@ -1,7 +1,7 @@
 decide what store to order from
-decide pizza type to order
-Stores
--Dominos
--Pizza Hut
--Papa Johns
--Little Ceasers
+decide the pizza you want
+place order via prefered method
+pay ahead or wait until arrival
+await order
+greet delivery person 
+pay for order if havent already
